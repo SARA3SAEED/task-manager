@@ -1,2 +1,3 @@
 - LEARN GIT BASICS
 -SET UP GIT REPOSITORY
+-Practice Git branching
