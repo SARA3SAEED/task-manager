@@ -1,3 +1,4 @@
 - LEARN GIT BASICS
 -SET UP GIT REPOSITORY
 -Practice Git 
+-Review Git merge and rebase
